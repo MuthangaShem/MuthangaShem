@@ -7,9 +7,8 @@ Web and mobile developer
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [MyPortfolio](http://muthangashem.github.io/Portfolio/)
 * ✉️  You can contact me at [muthangashem@gmail.com](mailto:muthangashem@gmail.com)
-* 🚀  I'm currently working on [TWAA](http://apps.apple.com/ke/app/twaa/id1630330601)
-* 🧠  I'm learning Svelte, React and Data Science
-* ⚡  I've got a pretty strong gif game 💪🏿
+* 🧠 I'm learning Svelte, React and Data Science
+* ⚡  Gif game 💪🏿
 
 ### Skills
 
