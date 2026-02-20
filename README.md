@@ -5,7 +5,7 @@ Web and mobile developer
 ------------------------
 
 * 🌍  I'm based in Nairobi
-* 🖥️  My [Website(http://muthangashem.com/)
+* 🖥️  My [Website](http://muthangashem.com/)
 * ✉️  You can contact me at [muthangashem@gmail.com](mailto:muthangashem@gmail.com)
 * 🧠 I'm learning Svelte, React 
 * ⚡  Gif game 💪🏿
