@@ -5,9 +5,9 @@ Web and mobile developer
 ------------------------
 
 * 🌍  I'm based in Nairobi
-* 🖥️  See my portfolio at [MyPortfolio](http://muthangashem.github.io/Portfolio/)
+* 🖥️  My Website [MyPortfolio](http://muthangashem.com/)
 * ✉️  You can contact me at [muthangashem@gmail.com](mailto:muthangashem@gmail.com)
-* 🧠 I'm learning Svelte, React and Data Science
+* 🧠 I'm learning Svelte, React 
 * ⚡  Gif game 💪🏿
 
 ### Skills
